@@ -1,5 +1,3 @@
-import javax.xml.validation.Validator;
-
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
         //tipos primitivos
